@@ -1,0 +1,4 @@
+Name: Darshan Kalpeshbhai Prajapati
+Id: 112908215
+
+As a rookie, using std::string to handle dynamic memory for the first time was an eye-opening experience. I used std::getline to convert the food description to a std::string, which is useful because it can accept any amount of input. The std::string was then transformed to a C-style string using c_str() before being copied into dynamically allocated memory using std::strcpy. This eliminated the need for fixed-size arrays and allowed me to handle lengthier descriptions with ease. To avoid memory leaks, it was necessary to include a destructor that cleaned away the allocated memory. It was a clever approach to manage strings more easily and safely.
