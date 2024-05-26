@@ -1,4 +1,4 @@
-# Workshop 1: Across Translation Units
+﻿# Workshop 1: Across Translation Units
 
 In this workshop, you implement aspects of linkage, storage duration, namespaces, header guards, and operating system interfaces.
 
