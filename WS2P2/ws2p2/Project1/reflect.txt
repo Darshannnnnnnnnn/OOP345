@@ -1,0 +1,14 @@
+/*
+Name: Darshan Kalpeshbhai Prajapati
+Seneca Id: 112908215
+Seneca email: dkprajapati2@myseneca.ca
+dat: 25th May 2024
+*/
+
+This workshop taught me a lot about the distinctions between copy and move operations in C++. Copying, such as in the ProteinDatabase copy constructor, can be inefficient because it duplicates every element:
+ProteinDatabase::ProteinDatabase(const ProteinDatabase& other)
+    : sequences(other.sequences) {}
+On the other hand, move operations transfer resources directly without creating copies, which is much faster. For example, the move constructor:
+ProteinDatabase::ProteinDatabase(ProteinDatabase&& other) noexcept
+    : sequences(std::move(other.sequences)) {}
+This approach greatly improves performance. Using the seneca namespace also helped keep the code well-organized and prevented naming conflicts. Implementing move semantics was challenging at first, particularly ensuring that the source object remained valid after moving. However, careful use of std::move addressed this issue. Overall, this workshop improved my understanding of modern C++ practices, especially in terms of resource management and writing efficient code.
