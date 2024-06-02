@@ -1,0 +1,15 @@
+/*
+Name: Darshan Kalpeshbhai Prajapati
+Seneca Id: 112908215
+Seneca email: dkprajapati2@myseneca.ca
+dat: 2nd June 2024
+*/
+I took a peek into advanced C++ concepts like templates, class specialization, and object-oriented design. One interesting topic we discussed was the practice of defining class objects outside of their primary definition. Though initially unfamiliar, I found this method useful for organizing code and improving readability by separating interface and implementation.
+
+We also discussed the importance of specialization, particularly in customizing objects like m_smallestItem and m_largestItem for specific scenarios. This tailored approach improves performance and addresses potential issues.
+
+While initializing m_smallestItem and m_largestItem for Book and 72 appeared redundant at first, I realized it emphasizes the importance of maintaining consistency and clarity in the code structure.
+
+Understanding the distinction between query and mutator functions, as demonstrated by the Collection class's operator[] function, emphasized the importance of effective object state management.
+
+In summary, Workshop 3 provided a thorough examination of advanced C++ concepts, with valuable insights presented in a way that improved my understanding and applicability as a participant.
