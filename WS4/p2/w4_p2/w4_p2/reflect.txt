@@ -1,0 +1,16 @@
+/*
+Name: Darshan Kalpeshbhai Prajapati
+Seneca Id: 112908215
+Seneca email: dkprajapati2@myseneca.ca
+dat: 7th June 2024
+*/
+Composition vs. Aggregation: Objects in composition have a strong relationship with their container, limiting their lifetime. For example, in the Restaurant class, I manage a dynamic array of Reservation objects.
+Aggregation denotes a weaker association in which objects exist independently. In the ConfirmationSender class, I keep pointers to Reservation objects without direct ownership.
+
+Copy functions, such as constructors and assignment operators, duplicate resources. Move functions do not. For example, in the Restaurant class, memory is allocated again for each copied Reservation.
+Move operations efficiently transfer ownership, as demonstrated by the ConfirmationSender's move constructor, which reassigns pointers to effectively manage resources.
+
+Association, Aggregation and Composition:
+The Reservation class is linked to the ConfirmationSender class via pointers, which allows ConfirmationSender to manage reservations without ownership.
+Aggregation: The Restaurant class manages Reservation objects directly in memory.
+Composition: The ConfirmationSender class creates an array of Reservation pointers, which are inextricably linked to the sender.

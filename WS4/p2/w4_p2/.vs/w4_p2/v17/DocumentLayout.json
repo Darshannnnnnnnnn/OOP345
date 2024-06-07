@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11727635-5347-44B1-879C-A7DC6F946E65}|w4_p2\\w4_p2.vcxproj|D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\Reservation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11727635-5347-44B1-879C-A7DC6F946E65}|w4_p2\\w4_p2.vcxproj|solutionrelative:w4_p2\\Reservation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11727635-5347-44B1-879C-A7DC6F946E65}|w4_p2\\w4_p2.vcxproj|D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\Restaurant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11727635-5347-44B1-879C-A7DC6F946E65}|w4_p2\\w4_p2.vcxproj|solutionrelative:w4_p2\\Restaurant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11727635-5347-44B1-879C-A7DC6F946E65}|w4_p2\\w4_p2.vcxproj|D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\ConfirmationSender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11727635-5347-44B1-879C-A7DC6F946E65}|w4_p2\\w4_p2.vcxproj|solutionrelative:w4_p2\\ConfirmationSender.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11727635-5347-44B1-879C-A7DC6F946E65}|w4_p2\\w4_p2.vcxproj|D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\ConfirmationSender.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11727635-5347-44B1-879C-A7DC6F946E65}|w4_p2\\w4_p2.vcxproj|solutionrelative:w4_p2\\ConfirmationSender.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11727635-5347-44B1-879C-A7DC6F946E65}|w4_p2\\w4_p2.vcxproj|D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\Restaurant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11727635-5347-44B1-879C-A7DC6F946E65}|w4_p2\\w4_p2.vcxproj|solutionrelative:w4_p2\\Restaurant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11727635-5347-44B1-879C-A7DC6F946E65}|w4_p2\\w4_p2.vcxproj|D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\Reservation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11727635-5347-44B1-879C-A7DC6F946E65}|w4_p2\\w4_p2.vcxproj|solutionrelative:w4_p2\\Reservation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11727635-5347-44B1-879C-A7DC6F946E65}|w4_p2\\w4_p2.vcxproj|D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\w4_p2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11727635-5347-44B1-879C-A7DC6F946E65}|w4_p2\\w4_p2.vcxproj|solutionrelative:w4_p2\\w4_p2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reservation.h",
+              "DocumentMoniker": "D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\Reservation.h",
+              "RelativeDocumentMoniker": "w4_p2\\Reservation.h",
+              "ToolTip": "D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\Reservation.h",
+              "RelativeToolTip": "w4_p2\\Reservation.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-07T20:50:12.538Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reservation.cpp",
+              "DocumentMoniker": "D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\Reservation.cpp",
+              "RelativeDocumentMoniker": "w4_p2\\Reservation.cpp",
+              "ToolTip": "D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\Reservation.cpp",
+              "RelativeToolTip": "w4_p2\\Reservation.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T20:50:10.6Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Restaurant.cpp",
+              "DocumentMoniker": "D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\Restaurant.cpp",
+              "RelativeDocumentMoniker": "w4_p2\\Restaurant.cpp",
+              "ToolTip": "D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\Restaurant.cpp",
+              "RelativeToolTip": "w4_p2\\Restaurant.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T20:50:41.261Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Restaurant.h",
+              "DocumentMoniker": "D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\Restaurant.h",
+              "RelativeDocumentMoniker": "w4_p2\\Restaurant.h",
+              "ToolTip": "D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\Restaurant.h",
+              "RelativeToolTip": "w4_p2\\Restaurant.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-07T20:51:47.103Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfirmationSender.h",
+              "DocumentMoniker": "D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\ConfirmationSender.h",
+              "RelativeDocumentMoniker": "w4_p2\\ConfirmationSender.h",
+              "ToolTip": "D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\ConfirmationSender.h",
+              "RelativeToolTip": "w4_p2\\ConfirmationSender.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-07T20:51:25.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfirmationSender.cpp",
+              "DocumentMoniker": "D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\ConfirmationSender.cpp",
+              "RelativeDocumentMoniker": "w4_p2\\ConfirmationSender.cpp",
+              "ToolTip": "D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\ConfirmationSender.cpp",
+              "RelativeToolTip": "w4_p2\\ConfirmationSender.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T20:51:07.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "w4_p2.cpp",
+              "DocumentMoniker": "D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\w4_p2.cpp",
+              "RelativeDocumentMoniker": "w4_p2\\w4_p2.cpp",
+              "ToolTip": "D:\\Semester 3\\oop\\OOP345\\WS4\\p2\\w4_p2\\w4_p2\\w4_p2.cpp",
+              "RelativeToolTip": "w4_p2\\w4_p2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T20:49:59.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
