@@ -1,0 +1,6 @@
+﻿  Book.cpp
+  Movie.cpp
+D:\Semester 3\oop\OOP345\WS5\p2\w5p2\w5p2\Movie.cpp(12,27): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+  SpellChecker.cpp
+  Generating Code...
+  w5p2.vcxproj -> D:\Semester 3\oop\OOP345\WS5\p2\w5p2\x64\Debug\w5p2.exe

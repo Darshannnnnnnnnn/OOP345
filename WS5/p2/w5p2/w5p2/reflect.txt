@@ -1,0 +1,77 @@
+/*
+Name: Darshan Kalpeshbhai Prajapati
+Seneca Id: 112908215
+Seneca email: dkprajapati2@myseneca.ca
+dat: 15th June 2024
+*/
+
+Working on this workshop has been quite the learning experience, especially around functors, lambdas, exception handling, and reducing code duplication.
+
+#### Functors vs. Lambda Expressions
+Functors are a bit like super-powered functions since you can maintain state inside them. They’re great for when you need an object to act like a function but with memory, like our `SpellChecker` which counts word replacements. On the other hand, lambda expressions are quick and easy for short, throwaway tasks. They’re like the sticky notes of coding—handy for simple, stateless operations.
+
+#### Handling Exceptions in SpellChecker
+Right now, `SpellChecker` throws an exception if it can't open a file. An alternative would be to use a flag to indicate success or failure:
+class SpellChecker {
+    bool m_isValid = false;
+    // Other members...
+public:
+    SpellChecker(const char* filename) {
+        std::ifstream file(filename);
+        m_isValid = file.is_open();
+        if (m_isValid) {
+            // Load words...
+        }
+    }
+
+    bool isValid() const {
+        return m_isValid;
+    }
+
+    // Other methods...
+};
+
+
+On the client side, you can check this flag:
+
+
+SpellChecker sc("words.txt");
+if (!sc.isValid()) {
+    std::cerr << "Failed to load the spell checker file." << std::endl;
+}
+
+
+Exceptions are great for clear, immediate error handling, but flags can sometimes simplify things, especially for small programs.
+
+Reducing Code Duplication in Movie and Book Classes
+Both the `Movie` and `Book` classes had similar string parsing logic. To avoid copying and pasting the same code, I moved the parsing functionality to a common base class or utility function:
+
+
+class Parseable {
+protected:
+    std::vector<std::string> parseString(const std::string& str, char delimiter) {
+        std::vector<std::string> tokens;
+        size_t start = 0, end;
+        while ((end = str.find(delimiter, start)) != std::string::npos) {
+            tokens.push_back(trim(str.substr(start, end - start)));
+            start = end + 1;
+        }
+        tokens.push_back(trim(str.substr(start)));
+        return tokens;
+    }
+
+    std::string trim(const std::string& str) {
+        size_t first = str.find_first_not_of(' ');
+        size_t last = str.find_last_not_of(' ');
+        return str.substr(first, (last - first + 1));
+    }
+};
+
+class Book : public Parseable { /* Book-specific members */ };
+class Movie : public Parseable { /* Movie-specific members */ };
+
+
+This way, both classes can use the same parsing logic without duplicating code.
+
+Default Constructors
+Default constructors are handy because they make objects easier to create in various situations. However, if every object needs specific initialization, they might not be necessary. Removing them can simplify the class definition, but it depends on how the objects are used throughout the code.
