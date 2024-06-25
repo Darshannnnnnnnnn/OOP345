@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 3\\oop\\OOP345\\midterm practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA88EE5-6918-42BE-AC03-EF727317D9A2}|midterm practice\\midterm practice.vcxproj|D:\\Semester 3\\oop\\OOP345\\midterm practice\\midterm practice\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDA88EE5-6918-42BE-AC03-EF727317D9A2}|midterm practice\\midterm practice.vcxproj|solutionrelative:midterm practice\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Semester 3\\oop\\OOP345\\midterm practice\\midterm practice\\Source.cpp",
+              "RelativeDocumentMoniker": "midterm practice\\Source.cpp",
+              "ToolTip": "D:\\Semester 3\\oop\\OOP345\\midterm practice\\midterm practice\\Source.cpp",
+              "RelativeToolTip": "midterm practice\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T00:10:04.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
