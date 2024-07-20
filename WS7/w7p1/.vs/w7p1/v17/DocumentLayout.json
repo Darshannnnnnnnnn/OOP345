@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 3\\oop\\OOP345\\WS7\\w7p1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F465406-07A6-4631-96F4-E88CFB42998C}|w7p1\\w7p1.vcxproj|D:\\Semester 3\\oop\\OOP345\\WS7\\w7p1\\w7p1\\Bakery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F465406-07A6-4631-96F4-E88CFB42998C}|w7p1\\w7p1.vcxproj|solutionrelative:w7p1\\Bakery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F465406-07A6-4631-96F4-E88CFB42998C}|w7p1\\w7p1.vcxproj|D:\\Semester 3\\oop\\OOP345\\WS7\\w7p1\\w7p1\\Bakery.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F465406-07A6-4631-96F4-E88CFB42998C}|w7p1\\w7p1.vcxproj|solutionrelative:w7p1\\Bakery.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F465406-07A6-4631-96F4-E88CFB42998C}|w7p1\\w7p1.vcxproj|D:\\Semester 3\\oop\\OOP345\\WS7\\w7p1\\w7p1\\w7_p1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F465406-07A6-4631-96F4-E88CFB42998C}|w7p1\\w7p1.vcxproj|solutionrelative:w7p1\\w7_p1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bakery.cpp",
+              "DocumentMoniker": "D:\\Semester 3\\oop\\OOP345\\WS7\\w7p1\\w7p1\\Bakery.cpp",
+              "RelativeDocumentMoniker": "w7p1\\Bakery.cpp",
+              "ToolTip": "D:\\Semester 3\\oop\\OOP345\\WS7\\w7p1\\w7p1\\Bakery.cpp",
+              "RelativeToolTip": "w7p1\\Bakery.cpp",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T01:24:21.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bakery.h",
+              "DocumentMoniker": "D:\\Semester 3\\oop\\OOP345\\WS7\\w7p1\\w7p1\\Bakery.h",
+              "RelativeDocumentMoniker": "w7p1\\Bakery.h",
+              "ToolTip": "D:\\Semester 3\\oop\\OOP345\\WS7\\w7p1\\w7p1\\Bakery.h",
+              "RelativeToolTip": "w7p1\\Bakery.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-12T01:23:25.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "w7_p1.cpp",
+              "DocumentMoniker": "D:\\Semester 3\\oop\\OOP345\\WS7\\w7p1\\w7p1\\w7_p1.cpp",
+              "RelativeDocumentMoniker": "w7p1\\w7_p1.cpp",
+              "ToolTip": "D:\\Semester 3\\oop\\OOP345\\WS7\\w7p1\\w7p1\\w7_p1.cpp",
+              "RelativeToolTip": "w7p1\\w7_p1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T01:19:49.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

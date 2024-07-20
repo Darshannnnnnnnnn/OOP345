@@ -1,0 +1,15 @@
+/*
+Name: Darshan Kalpeshbhai Prajapati
+Seneca Id: 112908215
+Seneca email: dkprajapati2@myseneca.ca
+dat: 19th July 2024
+*/
+I modified a database class for this course, concentrating on putting a singleton design in place and using templates and smart pointers. The singleton paradigm requires that different sections of the program share access to a single instance, which is why using std::shared_ptr instead of std::unique_ptr was critical.
+
+I changed the class description to include a template parameter <typename T>, changed member methods to accommodate the template type, and customized the encryptDecrypt function for various data types in order to make the Database class templated. This required handling encryption and decryption while modifying the class to function with any kind of data.
+
+Using a static local variable in a function is an alternate singleton implementation that does not include static members. This method offers thread-safe access and only initializes the singleton instance once when needed.
+
+Appropriate resource management is ensured via the Database class's custom copy and move methods. Since the constructor and destructor follow the instance lifecycle, it is expected that they will be invoked often during testing and debugging.
+
+All things considered, this exercise reaffirmed the value of template classes and smart pointers in resource management and singleton integrity.

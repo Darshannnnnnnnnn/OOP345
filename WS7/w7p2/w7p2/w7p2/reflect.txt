@@ -1,0 +1,11 @@
+/*
+Name: Darshan Kalpeshbhai Prajapati
+Seneca Id: 112908215
+Seneca email: dkprajapati2@myseneca.ca
+dat: 11th July 2024
+*/
+In completing this workshop, I extensively utilized several essential STL algorithms to efficiently manage and manipulate collections of BakedGood objects within the Bakery class. Key functions included `std::sort`, used in `sortBakery()` to sort items based on various criteria such as Description, ShelfLife, Stock, and Price. Its efficiency and straightforward implementation were crucial for ensuring the collection remained organized as per user requirements. Additionally, `std::accumulate` was instrumental in `showGoods()` to compute total stock and price across all items, simplifying aggregation tasks by iterating through the collection and summing values effectively.
+
+The choice of STL algorithms over manual loops offered significant advantages, notably in code readability and maintainability. STL algorithms encapsulate complex operations within a concise function call, reducing the potential for errors and improving overall code clarity. They also benefit from compiler optimizations tailored to specific algorithms, enhancing performance compared to manually implemented loops.
+
+Regarding `sortBakery()`, the implementation approach would largely remain consistent whether using a vector or a list. However, considerations for performance characteristics such as access times and data structure efficiencies might prompt different container choices in specific scenarios, despite the algorithmic approach remaining unchanged.
